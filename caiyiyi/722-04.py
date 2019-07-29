@@ -1,0 +1,5 @@
+adjective = input("please enter an adjective:")
+noun = input("please input a noun")
+verb = input("please input a verb")
+print("your madlib:")
+print("The", adjective, noun, verb, "over the pig's house")
